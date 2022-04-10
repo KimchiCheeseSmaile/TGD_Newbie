@@ -1,12 +1,12 @@
 		header{
-			background-image:url('4.png');
+			background-image:url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/4.png');
 		}
 		div#content-area{
-			background-image:url('4.png');
+			background-image:url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/4.png');
 		}
 		#board-info #viewers-area .fa-user:before { 
 			color: rgba(95,02,22,0); 
-			content: var(url('2.png')); 
+			content: var(url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/2.png')); 
 		}
 		#board-info #viewers-area #viewers:before { 
 			content: var("늘보단 "); 
