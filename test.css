@@ -1,6 +1,18 @@
-header{
-   background-image: url('1.png');
-};
-body{
-   background-image: url('4.png');
-}
+		header{
+			background-image:url('4.png');
+		}
+		div#content-area{
+			background-image:url('4.png');
+		}
+		#board-info #viewers-area .fa-user:before { 
+			color: rgba(95,02,22,0); 
+			content: var(url('2.png')); 
+		}
+		#board-info #viewers-area #viewers:before { 
+			content: var("늘보단 "); 
+			cursor: text; 
+		}
+		#board-info #viewers-area #viewers:after { 
+			content: var("명 대기중); 
+			cursor : text; 
+		}
