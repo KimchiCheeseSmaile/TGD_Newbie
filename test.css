@@ -13,6 +13,6 @@
 			cursor: text; 
 		}
 		#board-info #viewers-area #viewers:after { 
-			content: var("명 대기중); 
+			content: var("명 대기중"); 
 			cursor : text; 
 		}
