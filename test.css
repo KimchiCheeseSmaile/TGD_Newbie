@@ -23,11 +23,10 @@ div#content-area, footer, header{
 	background-image:url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/4.png');
 }
 
-div#header-bar{
+div#header-bar, #theme_btn_box, footer span{
 	position: relative; 
 	z-index:1;
 }
-
 
 div#content-area:before{
 	content:""; 
