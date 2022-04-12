@@ -2,9 +2,9 @@
 :root {
      --bgFrame: #ffffff;   /* 프레임 배경색 */
 	 --mainColor: #ff7f00;   /* 메인 컬러 */
-	--mainColor5: #ff7f00; /* 공지, 인기글 hover */
+	--mainColor5: #ff7f0075; /* 공지, 인기글 hover */
 	--mainColor3: #ff7f00; /* 공지, 인기글 */
-	--mainColor2: #ff7f00; /* 트게더 메뉴, 게시글 hover */
+	--mainColor2: #aa7f57; /* 트게더 메뉴, 게시글 hover */
 	--logoURL: url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/1.png');
 	--before: "늘보단 "; /* 접속자 수 앞 문구 */
 	--after: "명 대기중";  /* 접속자 수 뒤 문구 */
@@ -13,9 +13,9 @@
 html.darkmode:root {
      --bgFrame: #242424;   /* 프레임 배경색 */
 	 --mainColor: #ff7f00;   /* 메인 컬러 */
-	--mainColor5: #ff7f00; /* 공지, 인기글 hover */
+	--mainColor5: #ff7f0075; /* 공지, 인기글 hover */
 	--mainColor3: #ff7f00; /* 공지, 인기글 */
-	--mainColor2: #ff7f00; /* 트게더 메뉴, 게시글 hover */
+	--mainColor2: #aa7f57; /* 트게더 메뉴, 게시글 hover */
 	--logoURL: url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/1.png');
 }
 
