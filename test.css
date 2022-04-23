@@ -71,6 +71,8 @@ header {
 /* 트게더 로고 ( 없으면 주석처리 하세요 ) */
 header .row>div:nth-child(1)>a {
 	display: block;
+	position: relative;
+	z-index: 9999999;
 	width: var(--logoWidth);
 	height: 50px;
 	background: var(--logoURL) no-repeat;
