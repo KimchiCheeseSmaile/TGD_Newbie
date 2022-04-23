@@ -86,6 +86,8 @@ header .row>div:nth-child(1) > a > img {
 
 /* 검색 창 */
 header #right-search-form>input[type='text'] {
+	position: relative;
+	z-index: 9999999;
 	border: 2px solid var(--mainColor) !important;
 	transition: 0.2s;
 }
@@ -98,6 +100,8 @@ header #right-search-form>input[type='text']:focus {
 
 /* 검색 버튼 */
 header #right-search-form>#right-search-btn {
+	position: relative;
+	z-index: 9999999;
 	color: var(--mainColor) !important;
 	transition: 0.2s;
 }
