@@ -641,3 +641,17 @@ input.form-control:focus::placeholder {
 /* 버튼, 하단 검색 끝 */
 
 html.darkmode footer a { color: var(--mainColor); }
+
+/* 위로가기 버튼 */
+#movetotop img{
+	display:none;
+}
+
+#movetotop{
+	display: inline-block;
+	opacity:1;
+	background:url('https://KimchiCheeseSmaile.github.io/TGD_Newbie/3.png');    
+	width: 80px; 
+	height: 80px;
+	background-size: contain;
+}
